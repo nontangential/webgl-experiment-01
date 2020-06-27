@@ -1,0 +1,7 @@
+{
+  "name": "webgl_page_bg_engine",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx http-server -o examples/index.html"
+  }
+}
